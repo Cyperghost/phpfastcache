@@ -12,7 +12,7 @@
  *
  */
 
-namespace phpFastCache;
+namespace Phpfastcache;
 
 use phpFastCache\Exceptions\phpFastCacheInvalidArgumentException;
 
